@@ -57,9 +57,6 @@
 - **Slight Increase in Open MH Identification**: While still low, there is a slight upward trend in the "Openly Identity as MH Person" category, indicating a gradual shift in attitudes toward mental health, though barriers persist.
 - **Fluctuations in Mental Health Disclosure**: The "Admit MH Issue" category fluctuates but remains low, showing that willingness to disclose mental health issues is influenced by factors such as interview context and employer openness.
 
-### Overall Conclusion:
-There is a significant disparity between physical and mental health disclosures during interviews, with physical health being more openly discussed. While mental health disclosures show slight improvements, stigma and concerns about discrimination continue to inhibit open identification.
-
 #### Trends in Comfort Level for Discussing Mental Health Issues Over the Years with friends and faily
 <img src="Average_Comfort_in_Discussing_Mental_Health_Issues_with_Friends_Family_Over_the_Years.png" alt="Comfort in Discussing Mental Health Issues Over the Years" width="600"/>
 
