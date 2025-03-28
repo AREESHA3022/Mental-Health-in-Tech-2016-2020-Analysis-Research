@@ -23,6 +23,7 @@
 
 #### Employer Importance Ratings for Mental and Physical Health Over the Years
 <img src="Employer Importance Ratings for Mental & Physical Health Over the Years.png" alt="Employer Importance Ratings for Mental and Physical Health Over the Years" width="600"/>
+
 - **Physical Health Importance**: Consistently rated higher than mental health across all years, reflecting a societal tendency to prioritize physical health over mental health. This is likely due to physical health being more tangible and measurable, while mental health is often stigmatized and dismissed as less important.
 - **Mental Health Importance**: 
   - Slight but steady increase from 2017 to 2020, suggesting a gradual shift in employer awareness and recognition of mental health’s importance.
