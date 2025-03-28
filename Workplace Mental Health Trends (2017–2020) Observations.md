@@ -6,11 +6,12 @@
 
 <img src="Mental Health Disorder Trends Over the Years (Percentage).png" alt="Mental Health Disorder Trends Over the Years" width="600"/>
 
-**Observations and Conclusions:**
-
-The analysis of mental health trends from 2017 to 2020 reveals several key observations. Family history of mental health disorders remained consistently high across all years, ranging from 48% to 52%, suggesting a strong genetic or familial link. Both past and current mental health disorders showed similar patterns, with a slight increase from 2017 to 2018, possibly due to heightened awareness from movements like #MeToo, followed by a gradual decline from 2018 to 2020. The drop in 2020 was significant, likely influenced by the COVID-19 pandemic, which caused widespread stress, isolation, and limited access to mental health services, affecting reporting behaviors. This decline in reported disorders doesn't necessarily reflect a true decrease in mental health issues but may instead be due to external factors like the pandemic. 
-
-
+- **Family History**: Consistently high (48% to 52%) across all years, suggesting a strong genetic or familial link to mental health disorders.
+- **Past and Current Mental Health Disorders**: 
+  - Slight increase from 2017 to 2018, potentially due to heightened awareness from social movements like #MeToo.
+  - Gradual decline from 2018 to 2020.
+- **Significant Drop in 2020**: Likely influenced by the COVID-19 pandemic, causing stress, isolation, and limited access to mental health services. This may have impacted reporting behaviors rather than indicating a true decrease in mental health issues.
+  
 ### Workplace Support
 #### Trends in Workplace Mental Health Support Over the Years (Percentage)
 <img src="Workplace Mental Health Support Trends Over the Years (Percentage).png" alt="Workplace Mental Health Support Trends" width="600"/>
