@@ -40,7 +40,7 @@
 - **No Significant Variation**: No noticeable fluctuation or trend over the four years, with the average rating staying stable.
 - **Limited Perceived Ease**: A consistent rating of 3 out of 5 suggests that employees find requesting medical leave for mental health issues moderately challenging, indicating hesitation or barriers.
 - **Lack of Improvement**: The lack of significant change points to persistent challenges in improving the process, suggesting stigma or procedural barriers:
-  - he steady rating implies stigma surrounding mental health may discourage employees from requesting leave.
+  - Steady rating implies stigma surrounding mental health may discourage employees from requesting leave.
   - Workplace policies or procedures may not be streamlined or transparent, contributing to the moderate difficulty in requesting leave.
 - **Inconclusive Impact of 2020**: Despite increased mental health awareness due to the pandemic, there was no observed change in the ease of requesting leave.
 
