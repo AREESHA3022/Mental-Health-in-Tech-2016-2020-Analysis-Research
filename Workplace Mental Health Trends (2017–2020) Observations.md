@@ -113,4 +113,12 @@
 - **Persistent Stigma**: Mental health stigma remains strong, limiting open conversations.  
 - **Near-Zero Equal Comfort**: Very few individuals feel equally comfortable discussing both mental and physical health.  
 - **Non-Binary Individuals More Open**: Group 3 (non-binary) shows slightly higher comfort, possibly due to stronger community support and advocacy.  
-- **Limited Progress**: Despite variations, overall mental health comfort remains low, highlighting the need for further efforts to reduce stigma.  
+- **Limited Progress**: Despite variations, overall mental health comfort remains low, highlighting the need for further efforts to reduce stigma.
+
+### Conclusions on Mental Health Trends
+- **Mental Health Prevalence & Stigma**: Despite growing awareness, mental health issues remain widespread, but stigma continues to limit open discussions and support-seeking behavior. Temporary spikes in awareness haven’t led to a sustained cultural shift.
+- **Workplace Mental Health Support Improved**: Employers have increasingly provided mental health discussions, resources, and anonymity protection from 2017 to 2020. However, requesting medical leave for mental health remains challenging, indicating procedural and cultural barriers still exist.
+- **Gender Disparities in Mental Health**: Non-binary individuals report the highest rates of mental health challenges and also display the most openness in discussing them, likely due to strong community advocacy. Women report higher rates of mental health issues than men, but this may also reflect the fact that men are less likely to acknowledge or seek help for their mental health struggles due to societal expectations discouraging emotional expression.
+- **Comfort in Mental Health Discussions Remains Low**: Across all demographics, people are significantly more comfortable discussing physical health than mental health, underscoring the persistent stigma.
+- **COVID-19’s Mixed Impact**: While the pandemic increased workplace mental health support, it also created additional stressors, leading to reduced comfort in discussing mental health issues with friends and family.
+- **Final Takeaway**: Progress has been made in workplace support, but stigma remains a significant barrier—especially for men, who may struggle in silence. Addressing these issues requires further normalization of mental health discussions, targeted interventions, and policies that make seeking help as acceptable as addressing physical health concerns.
