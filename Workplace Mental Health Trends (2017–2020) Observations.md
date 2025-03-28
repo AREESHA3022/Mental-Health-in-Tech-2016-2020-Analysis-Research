@@ -5,19 +5,10 @@
 ### Prevalence of Mental Health Conditions
 
 <img src="Mental Health Disorder Trends Over the Years (Percentage).png" alt="Mental Health Disorder Trends Over the Years" width="600"/>
+
 **Observations and Conclusions:**
 
-- **Consistent Family History:** The "Family History" category remains consistently high, with 48%–52% of respondents acknowledging a familial mental health history. This points to a strong genetic or familial influence on mental health.
-  
-- **Past and Current MH Disorders:** Both "Past" and "Current MH Disorder" categories show similar trends: a slight increase from 2017 to 2018, followed by a gradual decrease from 2018 to 2020. The 2018 increase may reflect heightened awareness, while the 2020 decrease suggests the influence of the COVID-19 pandemic.
-
-- **COVID-19 Impact:** The sharp decline in 2020 is likely not due to a real decrease in mental health issues but may reflect reporting biases due to the pandemic’s global stress and social isolation. Respondents may have shifted focus from personal mental health concerns to more immediate survival needs.
-
-**Key Takeaways:**
-
-- Family history consistently correlates with mental health issues.
-- Mental health disorder trends fluctuate, peaking in 2018 and declining in 2020.
-- The 2020 decline likely reflects external factors, such as the COVID-19 pandemic, which may have altered reporting behaviors and access to mental health services.
+The analysis of mental health trends from 2017 to 2020 reveals several key observations. Family history of mental health disorders remained consistently high across all years, ranging from 48% to 52%, suggesting a strong genetic or familial link. Both past and current mental health disorders showed similar patterns, with a slight increase from 2017 to 2018, possibly due to heightened awareness from movements like #MeToo, followed by a gradual decline from 2018 to 2020. The drop in 2020 was significant, likely influenced by the COVID-19 pandemic, which caused widespread stress, isolation, and limited access to mental health services, affecting reporting behaviors. This decline in reported disorders doesn't necessarily reflect a true decrease in mental health issues but may instead be due to external factors like the pandemic. 
 
 
 ### Workplace Support
