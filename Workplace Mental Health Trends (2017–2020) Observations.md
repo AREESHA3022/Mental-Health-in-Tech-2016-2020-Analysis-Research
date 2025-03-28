@@ -2,7 +2,7 @@
 
 ## Year-over-Year Trends
 ### Mental Health Disorder Trends Over the Years (Percentage)
-<img src="Mental_Health_Disorder_Trends_Over_the_Years (Percentage).png" alt="Mental Health Disorder Trends Over the Years" width="600"/>
+<img src="Mental Health Disorder Trends Over the Years (Percentage).png" alt="Mental Health Disorder Trends Over the Years" width="600"/>
 
 ### Workplace Mental Health Support Trends Over the Years (Percentage)
 <img src="Workplace Mental Health Support Trends Over the Years (Percentage).png" alt="Workplace Mental Health Support Trends" width="600"/>
