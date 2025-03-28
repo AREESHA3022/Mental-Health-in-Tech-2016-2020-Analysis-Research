@@ -63,22 +63,54 @@
 - **Peak in 2018**: Likely due to rising mental health awareness, social movements, and corporate wellness programs promoting open discussions.
 - **Gradual Decline (2019-2020)**: Possible saturation of awareness efforts or increasing personal barriers to sharing.
 - **Significant Drop in 2020**: COVID-19 pandemic led to reduced comfort in discussing mental health due to:
-- Fear of burdening others already facing struggles.
-- Limited in-person interactions hindering deep conversations.
-- Increased stress, financial concerns, and survival mode mindset.
+  - Fear of burdening others already facing struggles.
+  - Limited in-person interactions hindering deep conversations.
+  - Increased stress, financial concerns, and survival mode mindset.
 
 #### Trends in Mental Health and Physical Health Openness Over the Years
 <img src="Trend of MH or PH Over the Years.png" alt="Comfort in Discussing Mental Health OR Physical Health comparison" width="600"/>
+
+- **Physical Health Comfort Dominates**: People consistently find it easier to discuss physical health compared to mental health.  
+- **Low Mental Health Comfort**: Mental health discussion comfort remains between 12% and 24%, showing minimal progress.  
+- **Peak in 2018**: A temporary rise in mental health discussion comfort occurred, possibly due to increasing awareness initiatives.  
+- **Decline in 2020**: Comfort in discussing mental health dropped, likely due to COVID-19, as people avoided burdening others.  The focus on physical health during COVID-19 may have increased comfort in discussing it while reducing mental health discussions.   
+- **Near-Zero Equal Comfort**: Very few individuals reported being equally comfortable discussing both physical and mental health, highlighting a societal divide.  
+- **Persistent Stigma**: The trends indicate that mental health stigma remains strong, with little progress in normalizing these conversations.  
 
 ### Demographic Insights based on gender 
 #### Prevalence of Mental Health Disorders by Gender (Percentage)
 <img src="Mental Health Disorder by Gender (Percentage).png" alt="Mental Health Disorder by Gender (Percentage)" width="600"/>
 
+- **Higher Prevalence in Non-Binary Individuals**: Non-binary individuals (gender 3) report the highest rates of both past and current mental health disorders, indicating a potentially higher vulnerability in this group.  
+- **Gender Disparities in Mental Health**: Females (gender 2) show a significantly higher prevalence of mental health disorders compared to males (gender 1), suggesting that these conditions disproportionately affect non-male individuals.  
+- **Need for Targeted Support**: The data underscores the importance of tailored mental health resources for non-binary and female individuals, highlighting the need for further research to address the contributing factors behind these disparities.
+  
 #### Gender-based Trends in Openness Regarding Mental and Physical Health Discussions During Interviews
 <img src="Openness in Discussing Mental and Physical Health in Interviews by Gender.png" alt="Openness in Discussing Mental and Physical Health in Interviews by Gender" width="600"/>
+
+- **Higher Physical Health Disclosure**  
+  - Individuals across all gender groups are significantly more likely to admit to a physical health issue than a mental health issue.
+  - This highlights the persistent stigma surrounding mental health.  
+- **Non-Binary Individuals Show Highest Mental Health Disclosure**  
+  - The non-binary group reports the highest percentage of mental health admissions.  
+  - This could be due to greater awareness, community support, rejection of traditional gender norms, and stronger advocacy for mental health.  
+
 
 #### Gender-based Trends in Comfort Level for Discussing Mental Health Issues with Friends and Family
 <img src="Average_Comfort_in_Discussing_Mental_Health_Issues_with_FriendsFamily_by_Gender.png" alt="Average Comfort in Discussing Mental Health Issues with Friends and Family by Gender" width="600"/>
 
+- **Increasing Comfort Trend**: Comfort levels in discussing mental health rise from males to females to non-binary individuals, suggesting that societal norms and support systems influence openness.  
+- **Highest Comfort in Non-Binary Group**: Non-binary individuals report the highest comfort levels (~7.1), likely due to stronger community support and acceptance.  
+- **Moderate Comfort for Males & Females**: Both groups show moderate comfort, with females slightly higher than males (~6.3), possibly reflecting societal norms that encourage emotional expression in women.  
+- **Narrow Rating Range**: The relatively close range of comfort ratings suggests that while gender plays a role, individual experiences and social environments significantly impact comfort levels.  
+- **Persistent Stigma**: Despite some openness, moderate ratings indicate lingering stigma, especially among males, who traditionally face societal pressure to avoid discussing mental health.  
+
+
 #### Gender-based Comfort in Discussing Mental Health and Physical Health Issues
 <img src="plot_mh_or_ph_by_gender.png" alt="Comfort in Discussing Mental Health Issues by Gender" width="600"/>
+
+- **Large Comfort Gap**: Physical health discussions are significantly more accepted than mental health across all gender groups.  
+- **Persistent Stigma**: Mental health stigma remains strong, limiting open conversations.  
+- **Near-Zero Equal Comfort**: Very few individuals feel equally comfortable discussing both mental and physical health.  
+- **Non-Binary Individuals More Open**: Group 3 (non-binary) shows slightly higher comfort, possibly due to stronger community support and advocacy.  
+- **Limited Progress**: Despite variations, overall mental health comfort remains low, highlighting the need for further efforts to reduce stigma.  
