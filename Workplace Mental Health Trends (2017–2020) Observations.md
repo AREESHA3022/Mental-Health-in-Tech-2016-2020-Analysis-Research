@@ -50,6 +50,16 @@
 #### Trends in Openness Regarding Mental and Physical Health Discussions During Interviews Over the Years
 <img src="Openness in Discussing Mental and Physical Health in Interviews Over the Years.png" alt="Openness in Discussing Mental and Physical Health in Interviews Over the Years" width="600"/>
 
+- **Physical Health Disclosure Higher**: The percentage of individuals admitting to a physical health issue ("Admit PH Issue") is consistently higher than those admitting to a mental health issue ("Admit MH Issue"), reflecting the persistent stigma surrounding mental health.
+- **Low Mental Health Disclosure**: The percentage of individuals admitting to a mental health issue remains low, fluctuating between 3% and 5%, indicating ongoing stigma and fear of discrimination.
+- **Open Identification as MH Person Even Lower**: The percentage of individuals openly identifying as having a mental health issue is even lower, though it shows a slight increase, suggesting a gradual reduction in stigma but significant barriers remain.
+- **Increasing Trend in Physical Health Disclosure**: There is a noticeable increase in the disclosure of physical health issues from 2017 to 2020, potentially reflecting greater acceptance or the pandemic's impact on health discussions.
+- **Slight Increase in Open MH Identification**: While still low, there is a slight upward trend in the "Openly Identity as MH Person" category, indicating a gradual shift in attitudes toward mental health, though barriers persist.
+- **Fluctuations in Mental Health Disclosure**: The "Admit MH Issue" category fluctuates but remains low, showing that willingness to disclose mental health issues is influenced by factors such as interview context and employer openness.
+
+### Overall Conclusion:
+There is a significant disparity between physical and mental health disclosures during interviews, with physical health being more openly discussed. While mental health disclosures show slight improvements, stigma and concerns about discrimination continue to inhibit open identification.
+
 #### Trends in Comfort Level for Discussing Mental Health Issues Over the Years with friends and faily
 <img src="Average_Comfort_in_Discussing_Mental_Health_Issues_with_Friends_Family_Over_the_Years.png" alt="Comfort in Discussing Mental Health Issues Over the Years" width="600"/>
 
