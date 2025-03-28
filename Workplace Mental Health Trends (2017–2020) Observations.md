@@ -2,28 +2,33 @@
 
 ## Year-over-Year Trends Analysis
 
-### Trends in Mental Health Disorder Prevalence Over the Years (Percentage)
+### Prevalence of Mental Health Conditions
+
 <img src="Mental Health Disorder Trends Over the Years (Percentage).png" alt="Mental Health Disorder Trends Over the Years" width="600"/>
 
-### Trends in Workplace Mental Health Support Over the Years (Percentage)
+### Workplace Support
+#### Trends in Workplace Mental Health Support Over the Years (Percentage)
 <img src="Workplace Mental Health Support Trends Over the Years (Percentage).png" alt="Workplace Mental Health Support Trends" width="600"/>
 
-### Employer Importance Ratings for Mental and Physical Health Over the Years
+#### Employer Importance Ratings for Mental and Physical Health Over the Years
 <img src="Employer Importance Ratings for Mental & Physical Health Over the Years.png" alt="Employer Importance Ratings for Mental and Physical Health Over the Years" width="600"/>
 
 ### Trends in Ease of Requesting Medical Leave for Mental Health Issues Over the Years
 <img src="Average easiness in Requesting Medical Leave for MH Issues Over the Years.png" alt="Average Easiness in Requesting Medical Leave for MH Issues Over the Years" width="600"/>
 
-### Trends in Openness Regarding Mental and Physical Health Discussions During Interviews Over the Years
+### Comfort Discussing Mental Health
+
+#### Trends in Openness Regarding Mental and Physical Health Discussions During Interviews Over the Years
 <img src="Openness in Discussing Mental and Physical Health in Interviews Over the Years.png" alt="Openness in Discussing Mental and Physical Health in Interviews Over the Years" width="600"/>
 
-### Trends in Comfort Level for Discussing Mental Health Issues Over the Years
+### Trends in Comfort Level for Discussing Mental Health Issues Over the Years with friends and faily
 <img src="Average_Comfort_in_Discussing_Mental_Health_Issues_with_Friends_Family_Over_the_Years.png" alt="Comfort in Discussing Mental Health Issues Over the Years" width="600"/>
 
 ### Trends in Mental Health and Physical Health Openness Over the Years
 <img src="Trend of MH or PH Over the Years.png" alt="Comfort in Discussing Mental Health OR Physical Health comparison" width="600"/>
 
-### Prevalence of Mental Health Disorders by Gender (Percentage)
+### Demographic Insights based on gender 
+#### Prevalence of Mental Health Disorders by Gender (Percentage)
 <img src="Mental Health Disorder by Gender (Percentage).png" alt="Mental Health Disorder by Gender (Percentage)" width="600"/>
 
 ### Gender-based Trends in Openness Regarding Mental and Physical Health Discussions During Interviews
