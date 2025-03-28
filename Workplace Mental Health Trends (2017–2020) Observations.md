@@ -16,6 +16,11 @@
 #### Trends in Workplace Mental Health Support Over the Years (Percentage)
 <img src="Workplace Mental Health Support Trends Over the Years (Percentage).png" alt="Workplace Mental Health Support Trends" width="600"/>
 
+- All three categories (Employer Discussion, Resources Provided, and Anonymity Protected) showed an upward trend from 2017 to 2020, indicating a positive shift in workplace mental health support due to growing awareness, changing workplace culture, and legal/ethical considerations.
+- Employer discussions consistently ranked highest, showing that initiating mental health conversations is crucial to setting the foundation for further support through a proactive approach and stigma reduction.
+- Resources provided and anonymity protection also increased but with slightly lower percentages compared to Employer Discussion, emphasizing the importance of offering practical support through counseling and ensuring trust via anonymity.
+- A significant rise in all categories in 2020 likely reflected the impact of the COVID-19 pandemic, which increased stress, remote work challenges, and empathy, highlighting the need for workplace mental health support.
+
 #### Employer Importance Ratings for Mental and Physical Health Over the Years
 <img src="Employer Importance Ratings for Mental & Physical Health Over the Years.png" alt="Employer Importance Ratings for Mental and Physical Health Over the Years" width="600"/>
 
