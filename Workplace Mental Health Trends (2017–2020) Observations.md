@@ -23,6 +23,14 @@
 
 #### Employer Importance Ratings for Mental and Physical Health Over the Years
 <img src="Employer Importance Ratings for Mental & Physical Health Over the Years.png" alt="Employer Importance Ratings for Mental and Physical Health Over the Years" width="600"/>
+- **Physical Health Importance**: Consistently rated higher than mental health across all years, reflecting a societal tendency to prioritize physical health over mental health. This is likely due to physical health being more tangible and measurable, while mental health is often stigmatized and dismissed as less important.
+- **Mental Health Importance**: 
+  - Slight but steady increase from 2017 to 2020, suggesting a gradual shift in employer awareness and recognition of mental health’s importance.
+  - The increase may be driven by increased advocacy, awareness campaigns, and a reduction in stigma.
+- **Fluctuations in Physical Health Importance**: 
+  - Physical health importance rating showed fluctuations, with a peak in 2017 and a slight decrease in 2018 before stabilizing.
+  - This could indicate that while physical health remains a priority, its perceived importance may vary due to external factors or evolving workplace priorities.
+- **Increase in 2020**: Both physical and mental health importance ratings showed a slight increase in 2020, likely influenced by the COVID-19 pandemic, which highlighted the interconnectedness of physical and mental health, prompting employers to address both.
 
 #### Trends in Ease of Requesting Medical Leave for Mental Health Issues Over the Years
 <img src="Average easiness in Requesting Medical Leave for MH Issues Over the Years.png" alt="Average Easiness in Requesting Medical Leave for MH Issues Over the Years" width="600"/>
