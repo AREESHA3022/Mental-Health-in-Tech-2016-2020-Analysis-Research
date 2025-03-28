@@ -1,6 +1,6 @@
 # Workplace Mental Health Trends (2016–2020) Observations
 
-## *Year-over-Year Trends Analysis*
+## Analysis of Mental Health Trends Over the Years
 
 ### Prevalence of Mental Health Conditions
 
