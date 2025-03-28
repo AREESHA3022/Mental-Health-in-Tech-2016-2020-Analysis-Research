@@ -60,6 +60,13 @@
 #### Trends in Comfort Level for Discussing Mental Health Issues Over the Years with friends and faily
 <img src="Average_Comfort_in_Discussing_Mental_Health_Issues_with_Friends_Family_Over_the_Years.png" alt="Comfort in Discussing Mental Health Issues Over the Years" width="600"/>
 
+- **Peak in 2018**: Likely due to rising mental health awareness, social movements, and corporate wellness programs promoting open discussions.
+- **Gradual Decline (2019-2020)**: Possible saturation of awareness efforts or increasing personal barriers to sharing.
+- **Significant Drop in 2020**: COVID-19 pandemic led to reduced comfort in discussing mental health due to:
+- Fear of burdening others already facing struggles.
+- Limited in-person interactions hindering deep conversations.
+- Increased stress, financial concerns, and survival mode mindset.
+
 #### Trends in Mental Health and Physical Health Openness Over the Years
 <img src="Trend of MH or PH Over the Years.png" alt="Comfort in Discussing Mental Health OR Physical Health comparison" width="600"/>
 
